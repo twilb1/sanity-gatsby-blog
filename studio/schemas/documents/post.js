@@ -12,17 +12,6 @@ export default {
       description: 'Titles should be catchy, descriptive, and not too long'
     },
     {
-      name: 'subtitle',
-      type: 'string',
-      title: 'Subtitle',
-      description: 'Subtitles should be even shorter'
-    },
-    {
-      name: 'posted',
-      type: 'boolean',
-      title: 'Is the product published'
-    },
-    {
       name: 'slug',
       type: 'slug',
       title: 'Slug',
