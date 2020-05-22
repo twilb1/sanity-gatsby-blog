@@ -67,8 +67,9 @@ export default {
       title: 'Body',
       type: 'markdown',
       options: {
-        minRows: 20
+        minrows: 20
       }
+    }
   ],
   orderings: [
     {
