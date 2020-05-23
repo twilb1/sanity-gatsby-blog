@@ -65,10 +65,7 @@ export default {
     {
       name: 'body',
       title: 'Body',
-      type: 'markdown',
-      options: {
-        minrows: 20
-      }
+      type: 'bodyPortableText'
     }
   ],
   orderings: [
